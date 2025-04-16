@@ -23,14 +23,14 @@
 
     <main>
         <!-- Banner -->
-        <section class="section position-relative" style="background-image: url(image/image-1920x900-7.jpg);">
+        <section class="section position-relative" style="background-image: url(image/image-1920x900-7.jpg);" id="section-padding-part">
             <div class="r-container">
                 <div class="image-overlay"></div>
                 <div class="position-relative" style="z-index: 2;">
-                    <h1 class="font-1 fw-bold text-white">Contact Us</h1>
+                    <h1 class="font-1 fw-bold text-white" id="mobile-website-studies">Contact Us</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
-                            <li><a href="javaScript:void(0);" class="text-white">Home  &nbsp;&nbsp; |</a></li>
+                            <li><a href="index.php" class="text-white">Home  &nbsp;&nbsp; |</a></li>
                             <li class="breadcrumb-item fw-bold active" aria-current="page">&nbsp;&nbsp;Contact Us</li>
                         </ol>
                     </nav>
