@@ -18,6 +18,7 @@
                 <div class="image-overlay"></div>
                 <div class="position-relative" style="z-index: 2;">
                     <h5 class="font-1 fw-bold text-white text-anim">A. N. M. [ Auxiliary Nursing Midwifery ]</h5>
+                    
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
                             <li><a href="index.php" class="text-white"><b>Home</b> &nbsp;&nbsp;|&nbsp;&nbsp;</a></li>

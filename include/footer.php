@@ -1,6 +1,7 @@
 <?php include('default.php'); ?>
+
 <footer>
-    <section class="py-5 position-relative" style="background-image: url(image/image-1920x900-2.jpg);">
+    <section class="py-5 position-relative th-hidden-part" style="background-image: url(image/image-1920x900-2.jpg);">
         <div class="r-container">
             <div class="image-overlay-2"></div>
             <div class="position-relative" style="z-index: 2;">
@@ -68,7 +69,7 @@
                             </div>
                             <div class="d-flex flex-row me-2 gap-2 align-items-center mt-2">
                                 <i class="fa-solid fa-phone"></i>
-                                <a class="text-white" href="tel:<?php echo $mobile_1 ?>"><?php echo $mobile_1?></a>,
+                                <a class="text-white" href="tel:<?php echo $mobile_1 ?>"><?php echo $mobile_1 ?></a>,
                                 <a class="text-white" href="tel:<?php echo $mobile_2 ?>"><?php echo $mobile_2 ?></a>
                             </div><br>
                         </div>
